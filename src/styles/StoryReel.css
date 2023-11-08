@@ -1,0 +1,8 @@
+.storyReel{
+    display: flex;
+}
+@media (max-width:768px) {
+    .storyReel{
+        width: 100%;
+    }
+}

@@ -1,0 +1,10 @@
+@media (max-width:768px) {
+    .widgets{
+        display: none;
+    }
+}
+.widgets iframe{
+    display: flex;
+    flex: 1;
+
+}
