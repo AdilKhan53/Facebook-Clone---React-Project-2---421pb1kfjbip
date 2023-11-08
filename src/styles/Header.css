@@ -79,4 +79,7 @@
     .header_input{
         margin-left: 5px;
     }
+    .header_left input{
+        width: 50%;
+    }
 }
